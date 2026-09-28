@@ -10,14 +10,14 @@ My undergraduate thesis focuses on **speech emotion recognition for the Noakhali
 
 **WavLM-Based Speech Emotion Recognition**
 
-* Self-collected ~2,300 audio samples from 25 participants
+'''* Self-collected ~2,300 audio samples from 25 participants
 * Noakhali Bangla dialect
 * WavLM fine-tuning
 * Controlled noise augmentation
 * Model evaluation and error analysis
 * Interactive AI web demo
 
-🔗 **Live Demo:** https://huggingface.co/spaces/masudabdullah/noakhali-voice-ai
+🔗 **Live Demo:** https://huggingface.co/spaces/masudabdullah/noakhali-voice-ai'''
 🌐 **Portfolio:** https://mai-masud-portfolio.vercel.app
 
 ### 🛠️ Technical Skills
